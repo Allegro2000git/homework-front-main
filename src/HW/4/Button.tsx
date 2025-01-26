@@ -1,6 +1,6 @@
 type ButtonPropsType = {
-  callBack: () => void;
-  name: string;
+  callBack: () => void
+  name: string
 };
 
 export const Button = (props: ButtonPropsType) => {
